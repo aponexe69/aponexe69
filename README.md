@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Apon+%F0%9F%91%8B;Tech+Expert+%7C+Coder+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
 
-<!--
-**aponexe69/aponexe69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+```diff
+# Apon aka Apon আব্বা 💻✨
++ 🔥 Sarishabari'r most iconic tech genius.
++ 💡 Expert in mobile, PC, Linux, FydeOS, custom ROMs – you name it, he knows it.
++ 🌐 Curious explorer, always experimenting and mastering everything tech.
++ 📚 H.S.C student with IT leadership background (School IT Lab Incharge).
+- Struggling with food, missing maa'r ranna – but still coding like a boss!
