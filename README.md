@@ -11,7 +11,7 @@
 ### 🧠 About Me
 
 ```diff
-# Apon aka Apon আব্বা 💻✨
+# Apon আব্বা 💻✨
 + 🔥 Sarishabari'r most iconic tech genius.
 + 💡 Expert in mobile, PC, Linux, FydeOS, custom ROMs – you name it, he knows it.
 + 🌐 Curious explorer, always experimenting and mastering everything tech.
