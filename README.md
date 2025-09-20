@@ -1,24 +1,168 @@
-# 💫 About Me:
-# Apon আব্বা 💻✨<br>+ 🔥 Sarishabari'r most iconic tech genius.<br>+ 💡 Expert in mobile, PC, Linux, FydeOS, custom ROMs – you name it, he knows it.<br>+ 🌐 Curious explorer, always experimenting and mastering everything tech.<br>+ 📚 H.S.C student with IT leadership background (School IT Lab Incharge).<br>- Struggling with food, missing maa'r ranna – but still coding like a boss!
+<!-- Futuristic Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👾+Apon+Abba+%7C+Tech+Visionary+%7C+Future+Architect;Coding+the+Future+from+Sarishabari;Exploring+AI%2C+Cloud%2C+and+Beyond!" alt="Typing SVG" />
+</p>
 
+# 💫 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aponexe69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aponexe69) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aponexe69) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apon10080@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aponexe69&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aponexe69&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aponexe69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aponexe69&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 **Apon আব্বা** — Tech Visionary from Sarishabari 2099<br>
+- 🧠 _"If it's tech, I hack it. If it's broken, I fix it. If it's new, I master it."_<br>
+- 🤖 AI, Quantum Computing, Cloud, and Custom ROMs — always on the bleeding edge.<br>
+- 🌌 _"Dreaming in code, building for tomorrow."_<br>
+- 🏫 H.S.C student, IT Lab Incharge, and future innovator.<br>
+- 🍲 Missing maa'r ranna, but still coding like a boss in the metaverse!
 
 ---
+
+## 🌐 Socials
+<p align="center">
+  <a href="https://facebook.com/aponexe69"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/aponexe69"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://tiktok.com/@aponexe69"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="mailto:apon10080@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 🧬 Skills Matrix
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,css,html,js,java,dotnet,git,github,figma,photoshop,illustrator,cloudflare,netlify,vercel,gcp,firebase,mssql,apache,canva,windows"/>
+</p>
+
+| Skill                | Futurism Level |
+|----------------------|:-------------:|
+| C++ / C              | ▓▓▓▓▓▓▓▓▓░ 90%|
+| JavaScript / HTML/CSS| ▓▓▓▓▓▓▓▓░░ 80%|
+| Java / .NET          | ▓▓▓▓▓▓▓░░░ 70%|
+| Cloud / DevOps       | ▓▓▓▓▓▓░░░░ 60%|
+| Design (Adobe, Figma)| ▓▓▓▓▓▓▓░░░ 70%|
+| AI / ML / Quantum    | ▓▓▓░░░░░░ 30%|
+
+---
+
+# 🛰️ Tech Radar: 2025 & Beyond
+- **Exploring:** AI Agents, Quantum Computing, Edge AI, Blockchain, AR/VR
+- **Building:** Custom ROMs, Cloud Automation, Next-gen Web Apps
+- **Dreaming:** Neural Interfaces, Space Tech, Universal Translators
+
+---
+
+# 💻 Tech Stack
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&lineCount=2&username=aponexe69"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aponexe69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aponexe69&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aponexe69&theme=tokyonight&hide_border=false&layout=compact"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aponexe69&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+# 🤖 Now Playing / Current Mood
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w3w4k2k2k2k2k2k2k2k2k2k2k2k2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true"/>
+</p>
+
+---
+
+# 📡 Contact Me
+<p align="center">
+  <a href="mailto:apon10080@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/aponexe69"><img src="https://img.shields.io/badge/Facebook-Message%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/aponexe69"><img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Holographic Animated Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="holographic snake animation"/>
+</p>
+
+# 🛸 Mission Statement
+<p align="center"><b>"To architect a future where technology empowers, connects, and uplifts every mind on Earth and beyond."</b></p>
+
+# 🧭 Core Values
+- 🌐 Universal Curiosity
+- 🤝 Open Collaboration
+- 🦾 Relentless Innovation
+- 🧘 Mindful Coding
+- 🛡️ Digital Integrity
+
+---
+
+# 🗺️ Digital Footprint
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aponexe69&theme=tokyonight"/>
+</p>
+
+---
+
+# ⏳ Tech Stack Evolution
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aponexe69&theme=onestar&column=7"/>
+</p>
+
+---
+
+# 🚀 Future Projects Timeline
+| Year | Project | Description |
+|------|---------|-------------|
+| 2025 | 🧠 AI Agent | Building a personal AI assistant for daily life |
+| 2026 | 🌐 Quantum Web | Launching a quantum-encrypted website |
+| 2027 | 🛰️ Edge Cloud | Deploying edge AI for smart cities |
+| 2028 | 🦾 Neural Link | Experimenting with brain-computer interfaces |
+
+---
+
+# 💎 Support Me
+<p align="center">
+  <a href="https://ko-fi.com/aponexe69"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="https://www.buymeacoffee.com/aponexe69"><img src="https://img.shields.io/badge/Support%20me-Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
+</p>
+
+---
+
+# 🤖 Ask Me Anything (AI Q&A)
+<p align="center">
+  <a href="https://github.com/aponexe69/aponexe69/issues/new?assignees=&labels=question&template=ask-me-anything.md&title=Ask+Apon"><img src="https://img.shields.io/badge/Ask%20Me%20Anything-AI%20Q%26A-00F7FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+# 🟢 Live Status
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge&logo=livechat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zen%20Mode-ON-00F7FF?style=for-the-badge&logo=chakraui&logoColor=white"/>
+</p>
+
+# 🤖 AI Assistant
+<p align="center">
+  <a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/Chat%20with%20AI-OpenAI%20GPT-4-00F7FF?style=for-the-badge&logo=openai&logoColor=white"/></a>
+</p>
+
+# 📈 Star History
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=aponexe69/aponexe69&type=Date" alt="Star History Chart" width="600"/>
+</p>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=aponexe69&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
