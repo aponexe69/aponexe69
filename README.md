@@ -1,6 +1,6 @@
 <!-- Futuristic Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👾+Apon+Abba+%7C+Tech+Visionary+%7C+Future+Architect;Coding+the+Future+from+Sarishabari;Exploring+AI%2C+Cloud%2C+and+Beyond!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVoYXBqeDI4cjdyZWZleHhpdXp1Nno4Mzc2cHNxNnlhMHg5bXp5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" alt="GIF SVG" />
 </p>
 
 # 💫 About Me
