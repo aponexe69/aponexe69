@@ -9,7 +9,7 @@
 - 🧠 _"If it's tech, I hack it. If it's broken, I fix it. If it's new, I master it."_<br>
 - 🤖 AI, Quantum Computing, Cloud, and Custom ROMs — always on the bleeding edge.<br>
 - 🌌 _"Dreaming in code, building for tomorrow."_<br>
-- 🏫 H.S.C student, IT Lab Incharge, and future innovator.<br>
+- 🏫 H.S.C student and future innovator.<br>
 - 🍲 Missing maa'r ranna, but still coding like a boss in the metaverse!
 
 ---
