@@ -1,7 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVoYXBqeDI4cjdyZWZleHhpdXp1Nno4Mzc2cHNxNnlhMHg5bXp5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" alt="Neural Network" />
+  <img width="100%" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Neural Network" />
 </div>
-
 <br/>
 <!-- Futuristic Animated Header -->
 <p align="center">
