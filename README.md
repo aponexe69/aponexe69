@@ -48,11 +48,10 @@
 ---
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aponexe69&theme=tokyonight&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aponexe69&theme=tokyonight&layout=compact" />
 </p>
 
 ---
